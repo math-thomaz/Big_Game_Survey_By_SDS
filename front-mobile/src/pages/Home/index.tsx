@@ -1,6 +1,6 @@
 import React from 'react';
 import { FontAwesome5 as Icon } from '@expo/vector-icons';
-import { Image, StyleSheet, Text, View, Alert } from 'react-native';
+import { Image, StyleSheet, Text, View } from 'react-native';
 import { RectButton } from 'react-native-gesture-handler';
 import Header from '../../components/Header';
 import { useNavigation } from '@react-navigation/native';

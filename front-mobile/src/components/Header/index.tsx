@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
   tinyLogo: {
     width: 25,
     height: 25,
-  },
+  }
 });
 
 export default Header;
