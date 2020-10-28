@@ -6,6 +6,7 @@
   --color-dimgray: #4c5d67;
   --color-darkslategray: #37474f;
   --color-black: #0b1f34;
+  --color-darkblue: #1f5793;
 }
 
 body, html {
@@ -14,11 +15,11 @@ body, html {
 }
 
 * {
-  font-family: 'Play', sans-serif;
+  font-family: 'Play', Arial, Helvetica, sans-serif;
 }
 
 body {
-  background: var(--color-black);
+  background: linear-gradient(-30deg, var(--color-darkblue), var(--color-black));
 }
 
 a {
