@@ -24,10 +24,9 @@ Para o desenvolvimento, foi utilizado o combo Javascript (ES6) + Typescript + Re
 - JPA / Hibernate
 - Maven
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / JS (ES6) / TypeScript
 - ReactJS
 - Apex Charts
-- Expo
 ## Implantação em produção
 - Back end: Heroku
 - Front end web: Netlify
