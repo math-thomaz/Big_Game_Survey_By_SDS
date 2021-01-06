@@ -35,6 +35,7 @@ Para o desenvolvimento, foi utilizado o combo Javascript (ES6) + Typescript + Re
 
 # Como executar o projeto
 
+```bash
 ## Back end
 Pré-requisitos: Java 11
 
