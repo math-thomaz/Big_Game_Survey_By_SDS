@@ -9,9 +9,6 @@ Big Game Survey é uma aplicação full stack web construída durante a 1ª edi�
 
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados em uma API e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
 
-## Aspectos Técnicos (Front end)
-Para o desenvolvimento, foi utilizado o combo Javascript (ES6) + Typescript + React. Utilizamos conceitos de componentização para elementos fixos como Header, os Hooks useEffect e useState para obter e armazenar os dados e Axios para realizar as requisições à API.
-
 ## Layout web
 ![Web 1](https://github.com/math-thomaz/assets/blob/master/DevSuperior/sds1/img1.PNG)
 
